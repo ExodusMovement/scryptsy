@@ -1,3 +1,9 @@
+# `@exodus/scryptsy`
+
+Forked to use browser/RN-compatible crypto. Original README is below.
+
+---
+
 scryptsy
 ========
 

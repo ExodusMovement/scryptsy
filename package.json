@@ -1,5 +1,5 @@
 {
-  "name": "scryptsy",
+  "name": "@exodus/scryptsy",
   "version": "2.1.0",
   "description": "Pure JavaScript implementation of the scrypt key deriviation function that is fully compatible with Node.js and the browser.",
   "main": "lib/index.js",
