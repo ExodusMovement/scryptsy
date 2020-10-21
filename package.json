@@ -1,6 +1,6 @@
 {
   "name": "@exodus/scryptsy",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Pure JavaScript implementation of the scrypt key deriviation function that is fully compatible with Node.js and the browser.",
   "main": "lib/index.js",
   "author": "",
@@ -19,7 +19,7 @@
     "pbkdf2": "^3.1.1"
   },
   "repository": {
-    "url": "git@github.com:cryptocoinjs/scryptsy.git",
+    "url": "git@github.com:ExodusMovement/scryptsy.git",
     "type": "git"
   },
   "keywords": [

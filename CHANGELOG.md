@@ -1,3 +1,8 @@
+2.2.0 / 2020-10-21
+------------------
+
+- changed to depend on `pbkdf2` directly; browserify not required for browser/RN support
+
 2.1.0 / 2019-06-05
 ------------------
 - added `scrypt.async()` method
