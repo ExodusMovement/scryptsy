@@ -1,3 +1,8 @@
+2.2.1 / 2021-04-16
+------------------
+
+- Loosen `pbkdf2` version requirements ([#2](https://github.com/ExodusMovement/scryptsy/pull/2))
+
 2.2.0 / 2020-10-21
 ------------------
 
